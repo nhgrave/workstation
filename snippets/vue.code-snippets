@@ -1,0 +1,36 @@
+{
+	"Criar template basico do Vue": {
+		"scope": "vue",
+		"prefix": "vbase",
+		"body": [
+			"<template>",
+			"  <div></div>",
+			"</template>",
+			"",
+			"<script setup lang=\"ts\">",
+			"</script>",
+			"",
+			"<style lang=\"scss\" scoped>",
+			"</style>",
+			"",
+			"<i18n lang=\"json\">",
+			"{",
+			"  \"pt\": {},",
+			"  \"en\": {},",
+			"  \"es\": {}",
+			"}",
+			"</i18n>",
+		],
+		"description": "Create a simple HTML template"
+	},
+	"Adicionar media query": {
+		"scope": "scss",
+		"prefix": "@mediamin",
+		"body": [
+			"@media (min-width: map-get(\\$grid-breakpoints, 'sm')) {",
+			"",
+			"}",
+		],
+		"description": "Create a simple media query"
+	}
+}
