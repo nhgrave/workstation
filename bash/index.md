@@ -1,4 +1,6 @@
-# Terminal
+# Bash
+
+Past this code in `~/.bash_profile` or `~/.zshrc`
 
 EACH - Method to execute a command for all folders. E.g.: each git pull
 
