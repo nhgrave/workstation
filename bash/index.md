@@ -1,6 +1,6 @@
 # Bash
 
-Past this code in `~/.bash_profile` or `~/.zshrc`
+Past this code in `~/.bash_profile` or `~/.zprofile`
 
 EACH - Method to execute a command for all folders. E.g.: each git pull
 
