@@ -8,3 +8,4 @@ Workstation config
 * [Node.js](./nodejs/index.md)
 * [Ruby o Rails](./ruby/index.md)
 * [Bash](./bash/index.md)
+* [Eslint](./eslint/index.md)
