@@ -23,3 +23,7 @@ gem -v
 ```bash
 gem isntall rails
 ```
+
+## Rails project commands
+
+* [Rails](./rails.md)
