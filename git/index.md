@@ -39,6 +39,7 @@ git config --global alias.co checkout
 git config --global alias.st status
 git config --global alias.br branch
 git config --global alias.su "submodule update --init --recursive"
+git config --global alias.up '!git fetch --all && git pull --all'
 git config --global alias.clean-br '!f() { git branch | grep -v "*" | xargs git branch -D; }; f'
 ```
 
