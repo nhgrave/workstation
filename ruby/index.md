@@ -21,7 +21,7 @@ gem -v
 ## To install rails
 
 ```bash
-gem isntall rails
+gem install rails
 ```
 
 ## Rails project commands
