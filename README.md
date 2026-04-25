@@ -10,3 +10,4 @@ Workstation config
 * [Bash](./bash/index.md)
 * [Eslint](./eslint/index.md)
 * [Docker](./docker/index.md)
+* [VSCode](./vscode/index.md)
